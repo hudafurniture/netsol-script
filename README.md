@@ -1,2 +1,1 @@
 # netsol-script
-s
